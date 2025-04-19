@@ -1,0 +1,74 @@
+[
+  {
+    "name": "たろう",
+    "gender": "male",
+    "area": "kumomizaka",
+    "skills": [
+      "korini",
+      "chikara",
+      "sukkiri"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "tarou.html"
+  },
+  {
+    "name": "みき",
+    "gender": "female",
+    "area": "nagigahara",
+    "skills": [
+      "teinei",
+      "waza",
+      "sukkiri"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "miki.html"
+  },
+  {
+    "name": "ゆい",
+    "gender": "female",
+    "area": "hoshikage",
+    "skills": [
+      "korini",
+      "rakuni",
+      "teinei"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "yui.html"
+  },
+  {
+    "name": "はるか",
+    "gender": "female",
+    "area": "akanedani",
+    "skills": [
+      "waza",
+      "korini",
+      "sukkiri"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "haruka.html"
+  },
+  {
+    "name": "けんた",
+    "gender": "male",
+    "area": "kohou",
+    "skills": [
+      "chikara",
+      "korini",
+      "waza"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "kenta.html"
+  },
+  {
+    "name": "そうた",
+    "gender": "male",
+    "area": "suzuha",
+    "skills": [
+      "rakuni",
+      "teinei",
+      "sukkiri"
+    ],
+    "image": "https://placehold.jp/100x100.png",
+    "url": "souta.html"
+  }
+]
